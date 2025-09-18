@@ -33,5 +33,5 @@ npx shadcn@latest add @lantern/footer-01
 ## Learn More
 
 - [shadcn/ui Documentation](https://ui.shadcn.com)
-- [Lantern UI Components](https://lantern.dev/ui)
+- [Lantern UI Components](https://lanternui.com)
 - [Next.js Documentation](https://nextjs.org/docs)

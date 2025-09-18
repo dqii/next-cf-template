@@ -19,6 +19,6 @@
   },
   "iconLibrary": "lucide",
   "registries": {
-    "@lantern": "https://lantern.dev/r/{name}.json"
+    "@lantern": "https://lanternui.com/r/{name}.json"
   }
 }
